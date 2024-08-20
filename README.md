@@ -53,5 +53,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/95496cb4-e19c-4750-8412-62574e1cb89e)
 
 ### RESULT: 
+The Data Is Been Associated Successfully.
